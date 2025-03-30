@@ -1,0 +1,15 @@
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/nn_process.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/rknn_engine.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/yolov5_lib.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/opencv.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/draw_lib.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/serial_lib.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/yolov5_img.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/yolov5_video.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/Main.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/Main2.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/Main_Zhu.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/TEST.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/PICS.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/edit_cache.dir
+/home/orangepi/Desktop/Akuma/build/CMakeFiles/rebuild_cache.dir

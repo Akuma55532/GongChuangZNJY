@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++ -Dnn_process_EXPORTS -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fPIC -std=gnu++14 -o CMakeFiles/nn_process.dir/src/process/preprocess.cpp.o -c /home/orangepi/Desktop/Akuma/src/process/preprocess.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/process/preprocess.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++ -Dnn_process_EXPORTS -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fPIC -std=gnu++14 -o CMakeFiles/nn_process.dir/src/process/yolov5_postprocess.cpp.o -c /home/orangepi/Desktop/Akuma/src/process/yolov5_postprocess.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/process/yolov5_postprocess.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++ -Drknn_engine_EXPORTS -I/usr/include/opencv4 -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -g -fPIC -std=gnu++14 -o CMakeFiles/rknn_engine.dir/src/engine/rknn_engine.cpp.o -c /home/orangepi/Desktop/Akuma/src/engine/rknn_engine.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/engine/rknn_engine.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++ -Dopencv_EXPORTS -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fPIC -std=gnu++14 -o CMakeFiles/opencv.dir/src/opencv/opencv.cpp.o -c /home/orangepi/Desktop/Akuma/src/opencv/opencv.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/opencv/opencv.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++ -Dyolov5_lib_EXPORTS -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fPIC -std=gnu++14 -o CMakeFiles/yolov5_lib.dir/src/task/yolov5.cpp.o -c /home/orangepi/Desktop/Akuma/src/task/yolov5.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/task/yolov5.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++ -Ddraw_lib_EXPORTS -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -fPIC -std=gnu++14 -o CMakeFiles/draw_lib.dir/src/draw/cv_draw.cpp.o -c /home/orangepi/Desktop/Akuma/src/draw/cv_draw.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/draw/cv_draw.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++ -Dserial_lib_EXPORTS -I/usr/include/opencv4 -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -g -fPIC -std=gnu++14 -o CMakeFiles/serial_lib.dir/src/serial/serial.cpp.o -c /home/orangepi/Desktop/Akuma/src/serial/serial.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/serial/serial.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++  -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/yolov5_img.dir/src/yolov5_img.cpp.o -c /home/orangepi/Desktop/Akuma/src/yolov5_img.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/yolov5_img.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++  -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/yolov5_video.dir/src/yolov5_video.cpp.o -c /home/orangepi/Desktop/Akuma/src/yolov5_video.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/yolov5_video.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++  -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/Main.dir/src/main.cpp.o -c /home/orangepi/Desktop/Akuma/src/main.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/main.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++  -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/Main.dir/src/task/yolov5_thread_pool.cpp.o -c /home/orangepi/Desktop/Akuma/src/task/yolov5_thread_pool.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/task/yolov5_thread_pool.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++  -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/Main2.dir/src/main2.cpp.o -c /home/orangepi/Desktop/Akuma/src/main2.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/main2.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++  -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/Main2.dir/src/task/yolov5_thread_pool.cpp.o -c /home/orangepi/Desktop/Akuma/src/task/yolov5_thread_pool.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/task/yolov5_thread_pool.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++  -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/Main_Zhu.dir/src/main_zhu.cpp.o -c /home/orangepi/Desktop/Akuma/src/main_zhu.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/main_zhu.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++  -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/Main_Zhu.dir/src/task/yolov5_thread_pool.cpp.o -c /home/orangepi/Desktop/Akuma/src/task/yolov5_thread_pool.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/task/yolov5_thread_pool.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++  -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/TEST.dir/src/test.cpp.o -c /home/orangepi/Desktop/Akuma/src/test.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/test.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/Akuma/build",
+  "command": "/usr/bin/c++  -I/home/orangepi/Desktop/Akuma/librknn_api/include -I/home/orangepi/Desktop/Akuma/src -I/home/orangepi/Desktop/Akuma/3rdparty/rga/RK3588/include -isystem /usr/include/opencv4 -g -std=gnu++14 -o CMakeFiles/PICS.dir/src/pics.cpp.o -c /home/orangepi/Desktop/Akuma/src/pics.cpp",
+  "file": "/home/orangepi/Desktop/Akuma/src/pics.cpp"
+}
+]

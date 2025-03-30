@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rk3588-demo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Main-Debug-e96eeb608ecc18dd7800.json",
+					"name" : "Main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Main2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Main2-Debug-611ce6e14e700f3d1644.json",
+					"name" : "Main2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Main_Zhu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Main_Zhu-Debug-721356913f2c74d7fd1d.json",
+					"name" : "Main_Zhu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PICS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PICS-Debug-b99356b830c1b1ceeef4.json",
+					"name" : "PICS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TEST::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TEST-Debug-dbce666de92cf4fc98f0.json",
+					"name" : "TEST",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "draw_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-draw_lib-Debug-f80f81fc826bc92dc13b.json",
+					"name" : "draw_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "nn_process::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-nn_process-Debug-eb142197ef9b43235e28.json",
+					"name" : "nn_process",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "opencv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opencv-Debug-35805e8b467a074348fd.json",
+					"name" : "opencv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rknn_engine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rknn_engine-Debug-6ef1720474859c8341fd.json",
+					"name" : "rknn_engine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_lib-Debug-d85848b81bd5e3796273.json",
+					"name" : "serial_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov5_img::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov5_img-Debug-4f2e6f29de4addefb57a.json",
+					"name" : "yolov5_img",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov5_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov5_lib-Debug-5b7ad91ecaa46c4fedb7.json",
+					"name" : "yolov5_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "yolov5_video::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-yolov5_video-Debug-1293e1a1c2cfcc8f6154.json",
+					"name" : "yolov5_video",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/orangepi/Desktop/Akuma/build",
+		"source" : "/home/orangepi/Desktop/Akuma"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
